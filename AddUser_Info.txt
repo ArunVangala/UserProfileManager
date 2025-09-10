@@ -1,0 +1,5 @@
+These are the AddUser.aspx and its code-behind file AddUser.aspx.cs. They contain only the HTML, JavaScript, AJAX methods, and WebMethods implemented in C#.
+The database connections (connection strings and related .cs files) are not included for security reasons. You should provide your own connection string.
+The project includes a SQLCmds class that handles all ADO.NET connections (SQL connections, commands, etc.) and related methods.
+Since the connections are sensitive, they are not published. This project is meant for developers to use their own database setup.
+The purpose of this code is to add users based on roles and designations, and it is intended for .NET developers who want a template for user management functionality.
